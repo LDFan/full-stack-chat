@@ -38,7 +38,7 @@ const Sidebar = () => {
             />
             <span className="text-sm">只显示在线</span>
           </label>
-          <span className="text-xs text-zinc-500">({onlineUsers.length - 1} online)</span>
+          <span className="text-xs text-zinc-500">({onlineUsers.length - 1} 在线)</span>
         </div>
       </div>
 
