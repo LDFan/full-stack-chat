@@ -92,7 +92,7 @@ const LoginPage = () => {
                   Loading...
                 </>
               ) : (
-                "Sign in"
+                "登录"
               )}
             </button>
           </form>
@@ -110,8 +110,8 @@ const LoginPage = () => {
 
       {/* Right Side - Image/Pattern */}
       <AuthImagePattern
-        title={"Welcome back!"}
-        subtitle={"Sign in to continue your conversations and catch up with your messages."}
+        title={"欢迎回来!"}
+        subtitle={"请查看来自好友的新消息！:D"}
       />
     </div>
   );
